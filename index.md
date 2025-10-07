@@ -10,3 +10,4 @@ Peut-être
 [Voici mon super dessin](https://teteamodeler.ouest-france.fr/media/cache/carousel/assets/carousel/coloriage-bonhomme-de-neige-coloriages-de-noel.png)
 
 [Aller à la deuxième page (HTML)](test.html)
+[Aller à la troisième page (HTML)](testcopilot.md)
