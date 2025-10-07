@@ -1,0 +1,35 @@
+# 🚀 Le Code pour et par les Nuls
+
+![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-blue)
+
+> **Bienvenue !** Ce site est dédié à ceux qui veulent apprendre à coder facilement et sans prise de tête.
+
+## Sommaire
+- [Introduction](#introduction)
+- [Tutoriels](#tutoriels)
+- [Astuces](#astuces)
+- [Contact](#contact)
+
+---
+
+## Introduction
+
+<div style="background-color: #f0f6fc; border-radius: 8px; padding: 16px;">
+  <strong>Astuce :</strong> Le code n'est pas réservé aux experts. Tout le monde peut apprendre !
+</div>
+
+## Tutoriels 📚
+
+| Langage | Niveau | Lien |
+| ------- | ------ | ---- |
+| Python  | Débutant | [Voir](#python) |
+| HTML/CSS| Débutant | [Voir](#htmlcss) |
+
+## Astuces ⚡️
+
+- Utilisez les raccourcis clavier pour coder plus vite.
+- Commentez votre code pour le rendre compréhensible.
+
+## Contact
+
+Pour toute question, écrivez-moi à : [email@example.com](mailto:email@example.com)
